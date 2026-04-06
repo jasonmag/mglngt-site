@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Maglangit icon">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#f8fafc" />
+  <rect x="10" y="10" width="108" height="108" rx="24" fill="url(#bg)" />
+  <path
+    d="M28 92V36h14l22 28 22-28h14v56H84V58L64 83 44 58v34H28Z"
+    fill="#ffffff"
+  />
+</svg>
